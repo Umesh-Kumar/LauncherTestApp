@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Launcher Test</string>
+    <string name="home">Home</string>
+    <string name="drawer">Drawer</string>
+
+    <string name="check_internet_connection">Your device is currently not connected to the internet, Please check your internet connectivity and try again</string>
+    <string name="charging">Charging</string>
+
+</resources>
